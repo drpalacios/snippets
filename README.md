@@ -1,2 +1,2 @@
 # snippets
-Resources for Spring 2022 Elements of Databases
+Resources for Elements of Databases course
